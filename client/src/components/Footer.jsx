@@ -77,9 +77,9 @@ const Footer = () => {
                     <h2 className='text-base font-medium text-gray-800 uppercase'>Contact</h2>
                     <ul className='mt-3 flex flex-col gap-1.5'>
                         <li>1234 Luxury Drive</li>
-                        <li>San Francisco, CA 94107</li>
+                        <li>Navya, CA 94107</li>
                         <li>+1 234 567890</li>
-                        <li>info@example.com</li>
+                        <li>navya@gmail.com</li>
                     </ul>
                 </div>
 
@@ -97,7 +97,7 @@ const Footer = () => {
                 transition={{ duration: 0.6, delay: 0.6 }}
                 
             className='flex flex-col md:flex-row gap-2 items-center justify-between py-5'>
-                <p>© {new Date().getFullYear()} Brand. All rights reserved.</p>
+                <p>© {new Date().getFullYear()} CarRental. All rights reserved.</p>
                 <ul className='flex items-center gap-4'>
                     <li><a href="#">Privacy</a></li>
                     <li>|</li>
